@@ -1,0 +1,5 @@
+yt-dlp==2024.3.10
+ttkthemes==3.2.2
+ffmpeg-python==0.2.0
+m3u8==4.0.0
+requests>=2.31.0
